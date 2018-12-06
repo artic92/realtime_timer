@@ -1,0 +1,6 @@
+.tmp_versions/*
+Module.symvers
+ldmod
+rem
+remod
+run
